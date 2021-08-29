@@ -1,7 +1,7 @@
 # Baseboard cutting guide (Guide coupe-plinthe)
-
-![3dWiew](images/3D.PNG)
-
+<p align="center">
+  <img alt="3dWiew" src="./images/3D.PNG"/>
+</p>
 This is a tool to help cut baseboard properly. It is suitable for PVC baseboard as it can be cut with a cutter.
 
 - Baseboard used here was 11mm wide and 60mm height ;
